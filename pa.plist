@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.1.8.159:8080/examples/pa.ipa</string>
+					<string>http://10.1.9.27/pa.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cyou.tlts</string>
+				<string>com.cyou.tstl</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
