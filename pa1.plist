@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.tmgp.tstl</string>
+				<string>com.tencent.cyoutstlty</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新天龙八部</string>
+				<string>天龙八部体验</string>
 			</dict>
 		</dict>
 	</array>
